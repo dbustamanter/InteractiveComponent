@@ -13,12 +13,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/Screen%20Shot%202022-06-02%20at%2004.31.00.png)
+![](./screenshots/Screen%20Shot%202022-06-02%20at%2004.31.19.png)
+![](./screenshots/Screen%20Shot%202022-06-02%20at%2004.31.54.png)
+![](./screenshots/Screen%20Shot%202022-06-02%20at%2004.32.08.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-dom-W0w6_Q1sqi]
+- Live Site URL: [https://dbustamanterinteractive.netlify.app/]
 
 ## My process
 
@@ -31,24 +34,7 @@ Users should be able to:
 
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+this challenge it was more difficult. Use Javascript and HTML DOM was interesting and i learned how to use it. also, i learned media queries (only the basic). but i think it could be coding with less code, i'll be gratefull about your comments for this.
 
 
 ### Useful resources
