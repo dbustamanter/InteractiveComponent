@@ -1,4 +1,4 @@
-document.getElementById("btnSubmit").addEventListener("click", enter);
+document.getElementById("accept").addEventListener("click", enter);
 
 function thankU(num){
     let text = `
